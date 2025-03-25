@@ -1,0 +1,1 @@
+Each type of bank has its own controller ,which will parse its data and generalize it using the function written in newCsv
